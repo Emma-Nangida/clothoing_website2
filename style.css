@@ -1,0 +1,132 @@
+.navbar a{
+    padding: 5%;
+    list-style: none;
+    text-decoration: none;
+    color: rgb(225, 0, 255);
+    }
+
+ .word{
+   background-image:url(cloth1img.webp);
+    font-size: large;
+    padding: 40%;
+    margin-right: 10%;
+    
+
+ }
+ .but{
+    text-decoration: none;
+    color: white;
+    background-color: deeppink;
+    border: none;
+    padding: 1%;
+ }
+ /* .image{
+    margin-bottom: 50%;
+    margin-left: 15%;
+    margin-right: 40%;
+ } */
+ .word2{
+    text-align: center;
+    margin-top: 5%;
+ }
+ .images{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    padding: 5%;
+
+ }
+ .b img{
+   height: 60vh;
+  width: 90%;
+  padding: 5%;
+  margin-right: 2%;
+  border-radius: 20%;
+
+ }
+ .c img{
+   height: 60vh;
+  width: 90%;
+  padding: 5%;
+  margin-right: 2%;
+  border-radius: 20%;
+ }
+ .d img{
+   height: 60vh;
+   width: 90%;
+   padding: 5%;
+   margin-right: 2%;
+   border-radius: 20%;
+ }
+ .e img{
+   height: 60vh;
+   width: 90%;
+   padding: 5%;
+   margin-right: 2%;
+   border-radius: 20%;
+ }
+ .but2{
+   text-decoration: none;
+   color: white;
+   background-color: deeppink;
+   margin-left: 40%;
+   border: none;
+   padding: 2%;
+ }
+ .athlet{
+   display: grid;
+   grid-template-columns: repeat(2,1fr);
+ }
+ .gim{
+   background-image:url("atlet1.jpg")
+ }
+ .main{
+   display: grid;
+   margin-top: 2%;
+   padding: 2%;
+ }
+ .f{
+   background-image: url("leg1.jpg");
+   gap: 2%;
+   text-decoration: none;
+   color: white;
+
+ }
+ .but4{
+background-color: deeppink;
+border: none;
+text-decoration: none;
+color: white;
+ }
+
+ .g{
+   background-image: url("leg2.jpg");
+   padding: 5%;
+   text-decoration: none;
+   color: white;
+ }
+ .but5{
+   background-color: deeppink;
+border: none;
+text-decoration: none;
+color: white;
+ }
+ .word3{
+   text-align: center;
+ }
+ .show{
+width:200%;
+background-color: rgba(15, 14, 15, 0.315);
+ }
+ .footer{
+ 
+    display: grid;
+    gap: 10%;
+    text-decoration: none;
+    padding: 3%;
+    color: black;
+    margin-top: 3%;
+    list-style: none;
+    padding-left: 10%;
+
+  }
+ 
