@@ -9,7 +9,9 @@
    background-image:url(cloth1img.webp);
     font-size: large;
     padding: 40%;
-    margin-right: 10%;
+    text-decoration: none;
+    color: white;
+    padding-left: 3%;
     
 
  }
@@ -91,6 +93,12 @@
    color: white;
 
  }
+ .but3{
+  background-color: deeppink;
+  border: none;
+  text-decoration: none;
+  color: white;
+ }
  .but4{
 background-color: deeppink;
 border: none;
@@ -110,17 +118,17 @@ border: none;
 text-decoration: none;
 color: white;
  }
- .word3{
+ .word5{
    text-align: center;
  }
  .show{
 width:200%;
 background-color: rgba(15, 14, 15, 0.315);
  }
- .footer{
+ .Footer{
  
-    display: grid;
-    gap: 10%;
+    display: flex;
+    gap: 5%;
     text-decoration: none;
     padding: 3%;
     color: black;
@@ -128,5 +136,18 @@ background-color: rgba(15, 14, 15, 0.315);
     list-style: none;
     padding-left: 10%;
 
+  }
+  .but6{
+    text-decoration: none;
+    color: white;
+    background-color: deeppink;
+    font-size: large;
+    border: none;
+  }
+  .but7{
+    text-decoration: none;
+    background-color:white;
+    color: grey;
+    padding: 2%;
   }
  
